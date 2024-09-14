@@ -6,7 +6,7 @@ An elegant online platform for hassle-free car rentals, built with Django.
 3. Extensive Car Selection: Browse through a diverse range of vehicles
 4. Detailed Booking System: Easy-to-use booking process with comprehensive details
 5. Admin Dashboard: Powerful tools for efficient management of rentals and inventory
-## Screenshots
+# Screenshots
 ### Home Page
 ![home](https://cloud.githubusercontent.com/assets/13767521/17458380/5c871d58-5c30-11e6-9ea6-b4f804589d0b.png)
 
