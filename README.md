@@ -1,4 +1,4 @@
-# Car_Rental_System
+# Car_Rental_System: Your Gateway to Seamless Mobility
 Experience the future of car rentals with our sophisticated online platform. Built with Django and powered by cutting-edge web technologies, our Car Rental System offers a seamless, user-friendly experience for both customers and administrators.
 # Key Features
 - **User-friendly Interface**: Sleek design for effortless navigation
