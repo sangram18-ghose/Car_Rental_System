@@ -1,11 +1,11 @@
 # Car_Rental_System
 An elegant online platform for hassle-free car rentals, built with Django.
 # Key Features
-/Intuitive User Interface: Navigate effortlessly through our sleek, modern design.
-Dual-Portal Access: Separate, secure login systems for customers and administrators.
-Extensive Vehicle Catalog: Browse a diverse range of cars to suit every need and preference.
-Smart Booking System: Effortlessly reserve your ideal vehicle with our detailed, user-friendly booking process.
-Powerful Admin Dashboard: Efficiently manage rentals, inventory, and customer data with robust administrative tools.
+- **User-friendly Interface**: Sleek design for effortless navigation
+- **Secure Authentication**: Separate portals for users and administrators
+- **Extensive Car Selection**: Browse through a diverse range of vehicles
+- **Detailed Booking System**: Easy-to-use booking process with comprehensive details
+- **Admin Dashboard**: Powerful tools for efficient management of rentals and inventory
 # Screenshots
 ### Home Page
 ![home](https://cloud.githubusercontent.com/assets/13767521/17458380/5c871d58-5c30-11e6-9ea6-b4f804589d0b.png)
