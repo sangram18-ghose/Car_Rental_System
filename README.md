@@ -28,9 +28,9 @@ An elegant online platform for hassle-free car rentals, built with Django.
 - JavaScript
 
 # Quick Start
-STEP1: Clone the repository
-STEP2: Set up your Django environment
-STEP3: Run migrations
-STEP4: Start the server and explore!
+- STEP1: Clone the repository
+- STEP2: Set up your Django environment
+- STEP3: Run migrations
+- STEP4: Start the server and explore!
 
 Dive into the world of seamless car rentals. Whether you're a customer looking for the perfect ride or an admin managing the fleet, our Car Rental System has got you covered!
