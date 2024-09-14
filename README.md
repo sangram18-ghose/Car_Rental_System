@@ -21,7 +21,6 @@ An elegant online platform for hassle-free car rentals, built with Django.
 
 ### After Admin Login Homepage
 ![admin_home](https://cloud.githubusercontent.com/assets/13767521/17458294/b12fa1a6-5c2e-11e6-8052-b98289d8bf56.png)
-
 # Tech Stack
 1. Python
 2. Django
