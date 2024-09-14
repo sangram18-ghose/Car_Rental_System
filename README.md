@@ -45,4 +45,4 @@ Experience the future of car rentals with our sophisticated online platform. Bui
 - STEP3: Run migrations
 - STEP4: Start the server and explore!
 
-Dive into the world of seamless car rentals. Whether you're a customer looking for the perfect ride or an admin managing the fleet, our Car Rental System has got you covered!
+Revolutionize your car rental business with our state-of-the-art system. Whether you're a startup looking to disrupt the market or an established company aiming to modernize operations, our Car Rental System is your key to driving success in the digital age.
