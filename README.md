@@ -22,13 +22,13 @@ An elegant online platform for hassle-free car rentals, built with Django.
 ### After Admin Login Homepage
 ![Admin Homepage](https://cloud.githubusercontent.com/assets/13767521/17458294/b12fa1a6-5c2e-11e6-8052-b98289d8bf56.png)
 
-## 🛠 For Developers
+## For Developers
 
 - Clean, well-documented code for easy maintenance and updates
 - Modular architecture allowing for simple feature additions
 - Comprehensive test suite ensuring reliability and performance
 
-## 📈 Business Impact
+## Business Impact
 
 - Increase operational efficiency by automating rental processes
 - Enhance customer satisfaction with a user-friendly booking experience
